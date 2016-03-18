@@ -1,0 +1,14 @@
+body{
+  background:white;
+}
+
+#header{
+	background:black;
+	height:50px;
+}
+
+#footer{
+	background:blue;
+	height:50px;
+}
+
